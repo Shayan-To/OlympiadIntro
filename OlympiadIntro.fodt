@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-12-11T09:58:55.502000000</meta:creation-date><dc:date>2016-12-11T14:56:17.383000000</dc:date><meta:editing-duration>PT2H35M31S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/5.1.3.2$Windows_x86 LibreOffice_project/644e4637d1d8544fd9f56425bd6cec110e49301b</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="56" meta:word-count="779" meta:character-count="4244" meta:non-whitespace-character-count="3525"/></office:meta>
+ <office:meta><meta:creation-date>2016-12-11T09:58:55.502000000</meta:creation-date><dc:date>2016-12-21T15:50:05.249000000</dc:date><meta:editing-duration>PT2H59M26S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/5.1.3.2$Windows_x86 LibreOffice_project/644e4637d1d8544fd9f56425bd6cec110e49301b</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="62" meta:word-count="847" meta:character-count="4625" meta:non-whitespace-character-count="3844"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">22562</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">122</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">47505</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20680</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">30879</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14474</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">30431</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">31500</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13226</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2833</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">22562</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">47503</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">43240</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">122</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">30877</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">14594</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">65</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -82,7 +82,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1287223</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1514204</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -376,142 +376,198 @@
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:rsid="0015c3c6" officeooo:paragraph-rsid="0015c3c6" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="5pt" officeooo:rsid="0015c3c6" officeooo:paragraph-rsid="0015c3c6" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.0398in" fo:margin-bottom="0.0398in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:break-before="column" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="4pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="3.5pt" style:font-name-complex="Calibri" style:font-size-complex="4pt"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="6pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="4pt" officeooo:rsid="0012b44b" officeooo:paragraph-rsid="0012b44b" style:font-size-asian="3.5pt" style:font-size-complex="4pt"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="000ddef4" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="000e9155" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="000ddef4" officeooo:paragraph-rsid="000e9155" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="rl-tb"/>
    <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="000a81e6" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="00112431" officeooo:paragraph-rsid="00112431" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="0014c666" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="0012b44b" officeooo:paragraph-rsid="0012b44b" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
+   <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="000a81e6" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Heading">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Heading">
-   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
-   <style:text-properties fo:font-size="13pt" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
-   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
-   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
-   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" officeooo:rsid="000a81e6" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="00112431" officeooo:paragraph-rsid="00112431" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" officeooo:rsid="00112431" officeooo:paragraph-rsid="00112431" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="0012b44b" officeooo:paragraph-rsid="0012b44b" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" officeooo:rsid="0012b44b" officeooo:paragraph-rsid="0012b44b" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000898a7" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" fo:font-style="normal" officeooo:rsid="000898a7" officeooo:paragraph-rsid="000a81e6" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="15pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:paragraph-properties fo:line-height="115%" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Heading">
    <style:paragraph-properties fo:line-height="130%" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="15pt" officeooo:rsid="00085429" officeooo:paragraph-rsid="00085429" style:font-size-asian="15pt" style:font-name-complex="Calibri" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-name-complex="Calibri" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="12.5pt" style:font-name-complex="Calibri" style:font-size-complex="12.5pt"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="0014c666" style:font-size-asian="12.5pt" style:font-name-complex="Calibri" style:font-size-complex="12.5pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0402in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0.3752in" style:auto-text-indent="false" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="12.5pt" style:font-name-complex="Calibri" style:font-size-complex="12.5pt"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0799in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" fo:font-weight="bold" officeooo:rsid="00171adc" officeooo:paragraph-rsid="00171adc" style:font-size-asian="12.5pt" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12.5pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0799in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" fo:font-weight="bold" officeooo:rsid="00171adc" officeooo:paragraph-rsid="00171adc" style:font-size-asian="12.5pt" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12.5pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0799in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" fo:font-weight="bold" officeooo:rsid="00171adc" officeooo:paragraph-rsid="00171adc" style:font-size-asian="12.5pt" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12.5pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="12.5pt" fo:font-weight="bold" officeooo:rsid="00171adc" officeooo:paragraph-rsid="00171adc" style:font-size-asian="12.5pt" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="12.5pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0.0398in" fo:margin-bottom="0.0398in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:break-before="column" style:writing-mode="rl-tb"/>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="00069d42" officeooo:paragraph-rsid="00069d42" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-name-complex="Calibri" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00069d42" style:font-name-complex="Calibri"/>
@@ -530,6 +586,9 @@
   </style:style>
   <style:style style:name="T6" style:family="text">
    <style:text-properties officeooo:rsid="0013a437"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00171adc"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
@@ -819,90 +878,94 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P4">به نام او</text:p>
+   <text:p text:style-name="P6">به نام او</text:p>
    <text:section text:style-name="Sect1" text:name="Section1">
-    <text:p text:style-name="P13">«تفکر» و «مهارت حل مسئله» داشته‌هایی هستند که کسی <text:span text:style-name="T6">که </text:span>آن‌ها را فرا <text:span text:style-name="T6">می‌</text:span>گیرد می‌تواند در تمامی زمینه‌های زندگی خود از این داشته‌های ارزشمند استفاده کند و زندگی موفق‌تری داشته باشد. همان طور که افراد موفق با به کار گیری همین دو، به موفقیت رسیده‌اند.</text:p>
-    <text:p text:style-name="P14">کسب مهارت حل مسئله و تفکر نیازمند یک زمینه است، یعنی فرد باید در یک زمینه‌ای تلاش کند و به کسب مهارت و تفکر بپردازد. اما پس از این که این داشته‌ها کسب شدند، می‌توان با اندک تلاشی، در زمینه‌های گوناگون از آن‌ها استفاده کرد.</text:p>
-    <text:p text:style-name="P14">این زمینه می‌تواند زمینه‌<text:span text:style-name="T6">ا</text:span>ی علمی باشد، مثل زمینه‌های المپیاد‌ها (فیزیک، ریاضی، زیست، کامپیوتر، ادبی، نجوم و شیمی)، یا یک زمینه‌ی کاربردی باشند، مثل طراحی در موضوعات گوناگون (ربات، وسایل مکانیکی، برنامه‌های کامپیوتری، ساخت‌های شیمیایی و زیستی، ...).</text:p>
-    <text:p text:style-name="P14">المپیاد‌ها و جشنواره‌ی خوارزمی نیز به همین خاطر به وجود آمده‌اند؛ تا عاملی انگیزشی برای دانش‌آموزان دبیرستانی باشند تا با کسب این دو داشته‌ی مهم، زندگی موفق‌تری داشته باشند و در فردایی نزدیک، جامعه‌ای موفق‌تر را ایجاد کنند.</text:p>
-    <text:p text:style-name="P14">پس باید توجه داشت که آن چیزی که ارزشمند و مهم است برنده شدن و جایزه گرفتن و استفاده از تسهیلات نیست، بلکه کسب تفکر و مهارت حل مسئله مهم و ارزشمند است.</text:p>
-    <text:p text:style-name="P14">این موضوع را افرادی که در دوران دبیرستان برای المپیاد درس می‌خواندند یا برای جشنواره‌ی خوارزمی تلاش می‌کردند، همگی تأیید می‌کنند؛ که وارد شدنشان به این حوزه‌ها باعث موفقیت بیش‌ترشان در زندگی شده است.</text:p>
-    <text:p text:style-name="P14">حتی اگر مسئله‌ای مثل کنکور را نیز در نظر بگیریم، می‌بینیم که این افراد در کنکور از رقبای خود بسیار پیش‌تر هستند و اگر در سال آخر (سال پیش‌دانشگاهی) خوب درس بخوانند می‌توانند رتبه‌های عالی کسب کنند (اکثریت قابل توجه رتبه‌های عالی کنکور دبیرستان شهید بابایی ۲ از المپیادی‌ها بوده‌اند) و حتی اگر خوب درس نخوانند هم می‌توانند رتبه‌های قابل قبولی کسب کنند (که البته <text:span text:style-name="T6">افراد </text:span>گروه دوم <text:span text:style-name="T6">انگشت‌شمار </text:span>خواهند بود<text:span text:style-name="T6">،</text:span> به امید خدا).</text:p>
-    <text:p text:style-name="P3">چند نکته:</text:p>
-    <text:list xml:id="list6078558325433560695" text:style-name="L1">
+    <text:p text:style-name="P46">موفقیت. عامل موفقیت جوانان موفق.</text:p>
+    <text:p text:style-name="P42">«تفکر» و «مهارت حل مسئله» داشته‌هایی هستند که کسی <text:span text:style-name="T6">که </text:span>آن‌ها را فرا <text:span text:style-name="T6">می‌</text:span>گیرد می‌تواند در تمامی زمینه‌های زندگی خود از این داشته‌های ارزشمند استفاده کند و زندگی موفق‌تری داشته باشد. همان طور که افراد موفق با به کار گیری همین دو، به موفقیت رسیده‌اند.</text:p>
+    <text:p text:style-name="P40">کسب مهارت حل مسئله و تفکر نیازمند یک زمینه است، یعنی فرد باید در یک زمینه‌ای تلاش کند و به کسب مهارت و تفکر بپردازد. اما پس از این که این داشته‌ها کسب شدند، می‌توان با اندک تلاشی، در زمینه‌های گوناگون از آن‌ها استفاده کرد.</text:p>
+    <text:p text:style-name="P43">تفکر. مهارت حل مسئله. راه رسیدن.</text:p>
+    <text:p text:style-name="P42">این زمینه می‌تواند زمینه‌<text:span text:style-name="T6">ا</text:span>ی علمی باشد، مثل زمینه‌های المپیاد‌ها (فیزیک، ریاضی، زیست، کامپیوتر، ادبی، نجوم و شیمی)، یا یک زمینه‌ی کاربردی باشند، مثل طراحی در موضوعات گوناگون (ربات، وسایل مکانیکی، برنامه‌های کامپیوتری، ساخت‌های شیمیایی و زیستی، ...).</text:p>
+    <text:p text:style-name="P40">المپیاد‌ها و جشنواره‌ی خوارزمی نیز به همین خاطر به وجود آمده‌اند؛ تا عاملی انگیزشی برای دانش‌آموزان دبیرستانی باشند تا با کسب این دو داشته‌ی مهم، زندگی موفق‌تری داشته باشند و در فردایی نزدیک، جامعه‌ای موفق‌تر را ایجاد کنند.</text:p>
+    <text:p text:style-name="P43">المپیاد. کنکور. دانشگاه. زندگی.</text:p>
+    <text:p text:style-name="P42">این موضوع را افرادی که در دوران دبیرستان برای المپیاد درس می‌خواندند یا برای جشنواره‌ی خوارزمی تلاش می‌کردند، همگی تأیید می‌کنند؛ که وارد شدنشان به این حوزه‌ها باعث موفقیت بیش‌ترشان در زندگی شده است.</text:p>
+    <text:p text:style-name="P40">حتی اگر مسئله‌ای مثل کنکور را نیز در نظر بگیریم، می‌بینیم که این افراد در کنکور از رقبای خود بسیار پیش‌تر هستند و اگر در سال آخر (سال پیش‌دانشگاهی) خوب درس بخوانند می‌توانند رتبه‌های عالی کسب کنند (اکثریت قابل توجه رتبه‌های عالی کنکور دبیرستان شهید بابایی ۲ از المپیادی‌ها بوده‌اند) و حتی اگر خوب درس نخوانند هم می‌توانند رتبه‌های قابل قبولی کسب کنند (که البته <text:span text:style-name="T6">افراد </text:span>گروه دوم <text:span text:style-name="T6">انگشت‌شمار </text:span>خواهند بود<text:span text:style-name="T6">،</text:span> به امید خدا).</text:p>
+    <text:p text:style-name="P43">مدال؟ سهمیه‌ی کنکور؟ تفکر؟ مهارت حل مسئله؟</text:p>
+    <text:p text:style-name="P41">پس باید توجه داشت که آن چیزی که ارزشمند و مهم است برنده شدن و جایزه گرفتن و استفاده از تسهیلات نیست، بلکه کسب تفکر و مهارت حل مسئله مهم و ارزشمند است.</text:p>
+    <text:p text:style-name="P47">چند نکته<text:span text:style-name="T7">.</text:span></text:p>
+    <text:list xml:id="list4966094802180456894" text:style-name="L1">
      <text:list-item>
-      <text:p text:style-name="P24"><text:span text:style-name="T1">در ۷ سال اخیر، به لطف خدا، </text:span><text:span text:style-name="T2">از مدرسه‌ی شهید بابایی </text:span><text:span text:style-name="T1">قزوین نتایج زیر در المپیاد حاصل شده است:</text:span></text:p>
+      <text:p text:style-name="P36"><text:span text:style-name="T1">در ۷ سال اخیر، به لطف خدا، </text:span><text:span text:style-name="T2">از مدرسه‌ی شهید بابایی </text:span><text:span text:style-name="T1">قزوین نتایج زیر در المپیاد حاصل شده است:</text:span></text:p>
      </text:list-item>
     </text:list>
     <table:table table:name="Table2" table:style-name="Table2">
      <table:table-column table:style-name="Table2.A" table:number-columns-repeated="3"/>
      <table:table-row>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P10">المپیاد کامپیوتر</text:p>
+       <text:p text:style-name="P13">المپیاد کامپیوتر</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P11">المپیاد زیست</text:p>
+       <text:p text:style-name="P14">المپیاد زیست</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.C1" office:value-type="string">
-       <text:p text:style-name="P11">المپیاد ادبیات</text:p>
+       <text:p text:style-name="P14">المپیاد ادبیات</text:p>
       </table:table-cell>
      </table:table-row>
      <table:table-row>
       <table:table-cell table:style-name="Table2.A2" office:value-type="string">
-       <text:p text:style-name="P10">یک مدال نقره‌ی جهانی</text:p>
-       <text:p text:style-name="P10">یک مدال طلای کشوری</text:p>
-       <text:p text:style-name="P10">۶ مدال نقره‌ی کشوری</text:p>
-       <text:p text:style-name="P10">۲ مدال برنز کشوری</text:p>
-       <text:p text:style-name="P12">۹ قبولی مرحله‌ی دوم که به دوره‌ی المپیاد راه نیافتند</text:p>
+       <text:p text:style-name="P13">یک مدال نقره‌ی جهانی</text:p>
+       <text:p text:style-name="P13">یک مدال طلای کشوری</text:p>
+       <text:p text:style-name="P13">۶ مدال نقره‌ی کشوری</text:p>
+       <text:p text:style-name="P13">۲ مدال برنز کشوری</text:p>
+       <text:p text:style-name="P15">۹ قبولی مرحله‌ی دوم که به دوره‌ی المپیاد راه نیافتند</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A2" office:value-type="string">
-       <text:p text:style-name="P11">یک مدال طلای کشوری</text:p>
-       <text:p text:style-name="P11">یک مدال نقره‌ی کشوری</text:p>
+       <text:p text:style-name="P14">یک مدال طلای کشوری</text:p>
+       <text:p text:style-name="P14">یک مدال نقره‌ی کشوری</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.C2" office:value-type="string">
-       <text:p text:style-name="P11">یک مدال نقره‌ی کشوری</text:p>
+       <text:p text:style-name="P14">یک مدال نقره‌ی کشوری</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table>
-    <text:p text:style-name="P9"/>
+    <text:p text:style-name="P12"/>
     <table:table table:name="Table3" table:style-name="Table3">
      <table:table-column table:style-name="Table3.A"/>
      <table:table-column table:style-name="Table3.B"/>
      <table:table-row>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P11">المپیاد نجوم</text:p>
+       <text:p text:style-name="P14">المپیاد نجوم</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.B1" office:value-type="string">
-       <text:p text:style-name="P11">المپیاد ریاضی</text:p>
+       <text:p text:style-name="P14">المپیاد ریاضی</text:p>
       </table:table-cell>
      </table:table-row>
      <table:table-row>
       <table:table-cell table:style-name="Table3.A2" office:value-type="string">
-       <text:p text:style-name="P11">یک مدال نقره‌ی کشوری</text:p>
+       <text:p text:style-name="P14">یک مدال نقره‌ی کشوری</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.B2" office:value-type="string">
-       <text:p text:style-name="P11">یک مدال برنز کشوری</text:p>
+       <text:p text:style-name="P14">یک مدال برنز کشوری</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table>
-    <text:p text:style-name="P8"/>
-    <text:list xml:id="list896313421947564399" text:style-name="L2">
+    <text:p text:style-name="P10"/>
+    <text:list xml:id="list8600156710629160527" text:style-name="L2">
      <text:list-item>
-      <text:p text:style-name="P25">به دلیل شباهت بسیار زیاد فضای المپیاد‌های ریاضی و کامپیوتر، پیشنهاد می‌شود که کسانی که علاقه به یکی از این دو رشته دارند، در رشته‌ی دیگر نیز حتماً ثبت نام کنند. حتی شرکت در کلاس عملی المپیاد کامپیوتر برای علاقه‌مندان به ریاضی نیز توصیه می‌شود.</text:p>
+      <text:p text:style-name="P37">به دلیل شباهت بسیار زیاد فضای المپیاد‌های ریاضی و کامپیوتر، پیشنهاد می‌شود که کسانی که علاقه به یکی از این دو رشته دارند، در رشته‌ی دیگر نیز حتماً ثبت نام کنند. حتی شرکت در کلاس عملی المپیاد کامپیوتر برای علاقه‌مندان به ریاضی نیز توصیه می‌شود.</text:p>
      </text:list-item>
     </text:list>
-    <text:list xml:id="list182487208750813797" text:style-name="L3">
+    <text:list xml:id="list7217964555838109935" text:style-name="L3">
      <text:list-item>
-      <text:p text:style-name="P26">المپیاد نجوم المپیادی است که طرفداران زیادی در کشور ندارد. مطالبی هم که در این المپیاد آموخته می‌شود مطالبی بسیار کاربردی هستند و افراد از مهارت‌هایی که در این المپیاد کسب می‌کنند می‌توانند در زندگی علمی و روزمره خود استفاده‌ی زیادی ببرند.</text:p>
+      <text:p text:style-name="P38">المپیاد نجوم المپیادی است که طرفداران زیادی در کشور ندارد. مطالبی هم که در این المپیاد آموخته می‌شود مطالبی بسیار کاربردی هستند و افراد از مهارت‌هایی که در این المپیاد کسب می‌کنند می‌توانند در زندگی علمی و روزمره خود استفاده‌ی زیادی ببرند.</text:p>
      </text:list-item>
     </text:list>
-    <text:list xml:id="list7584986459971837171" text:style-name="L4">
+    <text:list xml:id="list6210011902406123518" text:style-name="L4">
      <text:list-item>
-      <text:p text:style-name="P27">از حدود ۲ سال پیش تلاشی در کمیته‌های برگزار کننده‌ی المپیاد شروع شده است تا المپیاد را به حالت علمی واقعی خود نزدیک‌تر کنند. یکی از معیار‌های این موضوع تعداد غیر تهرانی‌هایی است که در مرحله‌ی دوم قبول می‌شوند. این تلاش‌ها تا حدی نتیجه‌بخش بوده است (مثلاً در سال گذشته تعداد شهرستانی‌ها افزایش قابل قبولی داشته است) و امیدواریم نتایج هر چه بیش‌تر تلاش‌های این دوستان را در آینده‌ای نزدیک ببینیم.</text:p>
+      <text:p text:style-name="P39">از حدود ۲ سال پیش تلاشی در کمیته‌های برگزار کننده‌ی المپیاد شروع شده است تا المپیاد را به حالت علمی واقعی خود نزدیک‌تر کنند. یکی از معیار‌های این موضوع تعداد غیر تهرانی‌هایی است که در مرحله‌ی دوم قبول می‌شوند. این تلاش‌ها تا حدی نتیجه‌بخش بوده است (مثلاً در سال گذشته تعداد شهرستانی‌ها افزایش قابل قبولی داشته است) و امیدواریم نتایج هر چه بیش‌تر تلاش‌های این دوستان را در آینده‌ای نزدیک ببینیم.</text:p>
      </text:list-item>
     </text:list>
    </text:section>
-   <text:p text:style-name="P2"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P11"><text:soft-page-break/></text:p>
    <table:table table:name="Table4" table:style-name="Table4">
     <table:table-column table:style-name="Table4.A"/>
     <table:table-column table:style-name="Table4.B"/>
@@ -920,87 +983,89 @@
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P28">فیزیک</text:p>
+      <text:p text:style-name="P20">فیزیک</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B2" office:value-type="string">
-      <text:p text:style-name="P33">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
-      <text:p text:style-name="P33">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
+      <text:p text:style-name="P31">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
+      <text:p text:style-name="P31">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C2" office:value-type="string">
-      <text:p text:style-name="P29">مکانیک (شامل سینماتیک یا حرکت‌شناسی، دینامیک یا نیرو، حرکت دورانی، ...)، حرارت و گرما، ترمودینامیک، فشار، الکتریسیته و مغناطیس، نور و آینه و عدسی</text:p>
+      <text:p text:style-name="P22">مکانیک (شامل سینماتیک یا حرکت‌شناسی، دینامیک یا نیرو، حرکت دورانی، ...)، حرارت و گرما، ترمودینامیک، فشار، الکتریسیته و مغناطیس، نور و آینه و عدسی</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P28">کامپیوتر</text:p>
+      <text:p text:style-name="P20">کامپیوتر</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B3" office:value-type="string">
-      <text:p text:style-name="P30">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
+      <text:p text:style-name="P24">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C3" office:value-type="string">
-      <text:p text:style-name="P29">ترکیبیات، الگوریتم، برنامه‌نویسی، نظریه‌ی اعداد مقدماتی، نظریه‌ی گراف</text:p>
+      <text:p text:style-name="P22">ترکیبیات، الگوریتم، برنامه‌نویسی، نظریه‌ی اعداد مقدماتی، نظریه‌ی گراف</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P28">ریاضی</text:p>
+      <text:p text:style-name="P20">ریاضی</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B4" office:value-type="string">
-      <text:p text:style-name="P30">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
+      <text:p text:style-name="P24">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C4" office:value-type="string">
-      <text:p text:style-name="P29">ترکیبیات (کم‌تر از المپیاد کامپیوتر)، جبر، نظریه‌ی اعداد، هندسه</text:p>
+      <text:p text:style-name="P22">ترکیبیات (کم‌تر از المپیاد کامپیوتر)، جبر، نظریه‌ی اعداد، هندسه</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P28">نجوم</text:p>
+      <text:p text:style-name="P20">نجوم</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B5" office:value-type="string">
-      <text:p text:style-name="P30">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
-      <text:p text:style-name="P30">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
+      <text:p text:style-name="P24">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
+      <text:p text:style-name="P24">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C5" office:value-type="string">
-      <text:p text:style-name="P29">نجوم کروی، اخترفیزیک، نجوم آماتوری و تئوری رصد، کیهان‌شناسی، اطلاعات عمومی نجومی</text:p>
+      <text:p text:style-name="P22">نجوم کروی، اخترفیزیک، نجوم آماتوری و تئوری رصد، کیهان‌شناسی، اطلاعات عمومی نجومی</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A6" office:value-type="string">
-      <text:p text:style-name="P28">ادبی</text:p>
+      <text:p text:style-name="P20">ادبی</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B6" office:value-type="string">
-      <text:p text:style-name="P30">معدل<text:span text:style-name="T5"> هر</text:span> درس ادبیات در رشته‌ی علوم انسانی حداقل ۱۷ و در رشته‌های دیگر حداقل ۱۵ باشد</text:p>
+      <text:p text:style-name="P24">معدل<text:span text:style-name="T5"> هر</text:span> درس ادبیات در رشته‌ی علوم انسانی حداقل ۱۷ و در رشته‌های دیگر حداقل ۱۵ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C6" office:value-type="string">
-      <text:p text:style-name="P31">کتاب‌های درسی (شامل لغت، قرابت معنایی، تاریخ ادبیات، آرایه‌های ادبی، ...)، منابع خارج از کتاب (شامل غزل‌های حافظ، مثنوی معنوی، تاریخ بیهقی، کلیله و دمنه، ...)، زبان انگلیسی، زبان عربی، سوره‌هایی از قرآن کریم</text:p>
+      <text:p text:style-name="P26">کتاب‌های درسی (شامل لغت، قرابت معنایی، تاریخ ادبیات، آرایه‌های ادبی، ...)، منابع خارج از کتاب (شامل غزل‌های حافظ، مثنوی معنوی، تاریخ بیهقی، کلیله و دمنه، ...)، زبان انگلیسی، زبان عربی، سوره‌هایی از قرآن کریم</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P28">شیمی</text:p>
+      <text:p text:style-name="P20">شیمی</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B7" office:value-type="string">
-      <text:p text:style-name="P34">معدل <text:span text:style-name="T5">هر </text:span>درس <text:span text:style-name="T3">شیمی</text:span> حداقل ۱<text:span text:style-name="T3">۶</text:span> باشد</text:p>
-      <text:p text:style-name="P34">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
-      <text:p text:style-name="P34">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
+      <text:p text:style-name="P32">معدل <text:span text:style-name="T5">هر </text:span>درس <text:span text:style-name="T3">شیمی</text:span> حداقل ۱<text:span text:style-name="T3">۶</text:span> باشد</text:p>
+      <text:p text:style-name="P32">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
+      <text:p text:style-name="P32">معدل <text:span text:style-name="T5">هر </text:span>درس ریاضی حداقل ۱۴ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C7" office:value-type="string">
-      <text:p text:style-name="P29"><text:span text:style-name="T4">شیمی تجزیه (شامل </text:span>استوکیومتری، <text:span text:style-name="T4">سینتیک، الکتروشیمی، ...)، شیمی‌فیزیک (شامل </text:span>گاز‌ها، ساختار اتم<text:span text:style-name="T4">، پرتوزایی، </text:span>گرماشیمی<text:span text:style-name="T4">،</text:span> <text:span text:style-name="T4">...)، </text:span>شیمی آلی<text:span text:style-name="T4"> (شامل نام‌گذاری، گروه‌های عاملی، ترکیبات حلقوی، ...)، شیمی معدنی (اسید‌های اکسیژن‌دار، واکنش‌های معدنی، ...)</text:span></text:p>
+      <text:p text:style-name="P22"><text:span text:style-name="T4">شیمی تجزیه (شامل </text:span>استوکیومتری، <text:span text:style-name="T4">سینتیک، تعادل، الکتروشیمی، ...)، شیمی‌فیزیک (شامل </text:span>گاز‌ها، ساختار اتم<text:span text:style-name="T4">، پرتوزایی، </text:span>گرماشیمی<text:span text:style-name="T4">،</text:span> <text:span text:style-name="T4">...)، </text:span>شیمی آلی<text:span text:style-name="T4"> (شامل نام‌گذاری، گروه‌های عاملی، ترکیبات حلقوی، ...)، شیمی معدنی (اسید‌های اکسیژن‌دار، واکنش‌های معدنی، ...)</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A8" office:value-type="string">
-      <text:p text:style-name="P28">زیس<text:span text:style-name="T4">ت‌شناسی</text:span></text:p>
+      <text:p text:style-name="P20">زیس<text:span text:style-name="T4">ت‌شناسی</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B8" office:value-type="string">
-      <text:p text:style-name="P34">معدل <text:span text:style-name="T5">هر </text:span>درس <text:span text:style-name="T3">زیست‌شناسی</text:span> حداقل ۱۵ باشد</text:p>
+      <text:p text:style-name="P32">معدل <text:span text:style-name="T5">هر </text:span>درس <text:span text:style-name="T3">زیست‌شناسی</text:span> حداقل ۱۵ باشد</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.C8" office:value-type="string">
-      <text:p text:style-name="P32">زیست‌شناسی سلولی و مولکولی، ژنتیک، تکامل، سیستماتیک، گیاه‌شناسی، فیزیولوژی، اکولوژی و رفتار‌شناسی</text:p>
+      <text:p text:style-name="P28">زیست‌شناسی سلولی و مولکولی، ژنتیک، تکامل، سیستماتیک، گیاه‌شناسی، فیزیولوژی، اکولوژی و رفتار‌شناسی</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P1"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P2">شرایط قانونی درج شده در این جدول دقیق نیست و همچنین مربوط به سال گذشته می‌باشد. لطفاً به بخشنامه‌ی ثبت نام المپیاد‌ها مراجعه کنید.</text:p>
+   <text:p text:style-name="P2">اطلاعات سرتیتر‌ها نیز تقریبی است و ممکن است ناقص باشد. حتماً با یک نفر المپیادی (حتی از رشته‌ای متفاوت) مشورت کنید.</text:p>
   </office:text>
  </office:body>
 </office:document>

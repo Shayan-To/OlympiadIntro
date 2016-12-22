@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-12-11T09:58:55.502000000</meta:creation-date><dc:date>2016-12-21T15:50:05.249000000</dc:date><meta:editing-duration>PT2H59M26S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/5.1.3.2$Windows_x86 LibreOffice_project/644e4637d1d8544fd9f56425bd6cec110e49301b</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="62" meta:word-count="847" meta:character-count="4625" meta:non-whitespace-character-count="3844"/></office:meta>
+ <office:meta><meta:creation-date>2016-12-11T09:58:55.502000000</meta:creation-date><dc:date>2016-12-21T16:06:48.511000000</dc:date><meta:editing-duration>PT3H16M9S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:generator>LibreOffice/5.1.3.2$Windows_x86 LibreOffice_project/644e4637d1d8544fd9f56425bd6cec110e49301b</meta:generator><meta:document-statistic meta:table-count="3" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="62" meta:word-count="853" meta:character-count="4669" meta:non-whitespace-character-count="3882"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">122</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">26686</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">30879</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">14474</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">38597</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16803</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">13226</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2833</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">28476</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">30540</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">122</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">30877</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">14594</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">26686</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">38596</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">43487</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">80</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -884,7 +884,7 @@
     <text:p text:style-name="P42">«تفکر» و «مهارت حل مسئله» داشته‌هایی هستند که کسی <text:span text:style-name="T6">که </text:span>آن‌ها را فرا <text:span text:style-name="T6">می‌</text:span>گیرد می‌تواند در تمامی زمینه‌های زندگی خود از این داشته‌های ارزشمند استفاده کند و زندگی موفق‌تری داشته باشد. همان طور که افراد موفق با به کار گیری همین دو، به موفقیت رسیده‌اند.</text:p>
     <text:p text:style-name="P40">کسب مهارت حل مسئله و تفکر نیازمند یک زمینه است، یعنی فرد باید در یک زمینه‌ای تلاش کند و به کسب مهارت و تفکر بپردازد. اما پس از این که این داشته‌ها کسب شدند، می‌توان با اندک تلاشی، در زمینه‌های گوناگون از آن‌ها استفاده کرد.</text:p>
     <text:p text:style-name="P43">تفکر. مهارت حل مسئله. راه رسیدن.</text:p>
-    <text:p text:style-name="P42">این زمینه می‌تواند زمینه‌<text:span text:style-name="T6">ا</text:span>ی علمی باشد، مثل زمینه‌های المپیاد‌ها (فیزیک، ریاضی، زیست، کامپیوتر، ادبی، نجوم و شیمی)، یا یک زمینه‌ی کاربردی باشند، مثل طراحی در موضوعات گوناگون (ربات، وسایل مکانیکی، برنامه‌های کامپیوتری، ساخت‌های شیمیایی و زیستی، ...).</text:p>
+    <text:p text:style-name="P42">این زمینه می‌تواند زمینه‌<text:span text:style-name="T6">ا</text:span>ی علمی باشد، مثل زمینه‌های المپیاد‌ها (فیزیک، ریاضی، زیست<text:span text:style-name="T7">‌شناسی</text:span>، کامپیوتر، ادبی، نجوم و شیمی)، یا یک زمینه‌ی کاربردی باشند، مثل طراحی در موضوعات گوناگون (ربات، وسایل مکانیکی، برنامه‌های کامپیوتری، ساخت‌های شیمیایی و زیستی، ...).</text:p>
     <text:p text:style-name="P40">المپیاد‌ها و جشنواره‌ی خوارزمی نیز به همین خاطر به وجود آمده‌اند؛ تا عاملی انگیزشی برای دانش‌آموزان دبیرستانی باشند تا با کسب این دو داشته‌ی مهم، زندگی موفق‌تری داشته باشند و در فردایی نزدیک، جامعه‌ای موفق‌تر را ایجاد کنند.</text:p>
     <text:p text:style-name="P43">المپیاد. کنکور. دانشگاه. زندگی.</text:p>
     <text:p text:style-name="P42">این موضوع را افرادی که در دوران دبیرستان برای المپیاد درس می‌خواندند یا برای جشنواره‌ی خوارزمی تلاش می‌کردند، همگی تأیید می‌کنند؛ که وارد شدنشان به این حوزه‌ها باعث موفقیت بیش‌ترشان در زندگی شده است.</text:p>
@@ -904,10 +904,10 @@
        <text:p text:style-name="P13">المپیاد کامپیوتر</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-       <text:p text:style-name="P14">المپیاد زیست</text:p>
+       <text:p text:style-name="P14">المپیاد زیست<text:span text:style-name="T7">‌شناسی</text:span></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table2.C1" office:value-type="string">
-       <text:p text:style-name="P14">المپیاد ادبیات</text:p>
+       <text:p text:style-name="P14">المپیاد ادبی</text:p>
       </table:table-cell>
      </table:table-row>
      <table:table-row>
@@ -933,7 +933,7 @@
      <table:table-column table:style-name="Table3.B"/>
      <table:table-row>
       <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-       <text:p text:style-name="P14">المپیاد نجوم</text:p>
+       <text:p text:style-name="P14">المپیاد نجوم<text:span text:style-name="T7"> و اختر‌فیزیک</text:span></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table3.B1" office:value-type="string">
        <text:p text:style-name="P14">المپیاد ریاضی</text:p>
@@ -956,7 +956,7 @@
     </text:list>
     <text:list xml:id="list7217964555838109935" text:style-name="L3">
      <text:list-item>
-      <text:p text:style-name="P38">المپیاد نجوم المپیادی است که طرفداران زیادی در کشور ندارد. مطالبی هم که در این المپیاد آموخته می‌شود مطالبی بسیار کاربردی هستند و افراد از مهارت‌هایی که در این المپیاد کسب می‌کنند می‌توانند در زندگی علمی و روزمره خود استفاده‌ی زیادی ببرند.</text:p>
+      <text:p text:style-name="P38">المپیاد نجوم<text:span text:style-name="T7"> و اختر‌فیزیک</text:span> المپیادی است که طرفداران زیادی در کشور ندارد. مطالبی هم که در این المپیاد آموخته می‌شود مطالبی بسیار کاربردی هستند و افراد از مهارت‌هایی که در این المپیاد کسب می‌کنند می‌توانند در زندگی علمی و روزمره خود استفاده‌ی زیادی ببرند.</text:p>
      </text:list-item>
     </text:list>
     <text:list xml:id="list6210011902406123518" text:style-name="L4">
@@ -1017,7 +1017,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table4.1">
      <table:table-cell table:style-name="Table4.A7" office:value-type="string">
-      <text:p text:style-name="P20">نجوم</text:p>
+      <text:p text:style-name="P20">نجوم<text:span text:style-name="T7"> و اختر‌فیزیک</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.B5" office:value-type="string">
       <text:p text:style-name="P24">معدل <text:span text:style-name="T5">هر </text:span>درس فیزیک حداقل ۱۵ باشد</text:p>
